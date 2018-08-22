@@ -33,7 +33,7 @@ The learning system called an agent in this context can observe an environment s
 Observe =>Select action =>Action =>Get reward or penalty =>Update police 
 =>Iterate until the optimal police is found.
 
-Also I previewed the important part of machine learning that is Deep Learning a subclass of machine learning algorithms that learn underlying features in data using multiple processing layers with multiple levels of abstraction.
+Also I previewed the important part of machine learning that was Deep Learning a subclass of machine learning algorithms that learn underlying features in data using multiple processing layers with multiple levels of abstraction.
 Deep learning success in different areas in our daily real life. Some example are Object Classification ,Detection, Image Captioning ,Image Style Transfer ,Self _driving car ,Drones ,Cyberattack prediction ,Game ,Machine translation , Speech Processing ,Music composition ,Automatic Text Generation  and Predict heart disease risk from eye scans
 
    Apart from that.
