@@ -40,4 +40,4 @@ Deep learning success in different areas in our daily real life. Some example ar
 Anaconda installation and attempting week one challenge to determine whether the student will drop or continue to school due to the given data of a student in a dataset wasa part of week one.
 
 Special thanks to: 
-               Samnbaga and all student who support me to attend this amazing course 
+             sambiaga and all student who support me to attend this amazing course.
