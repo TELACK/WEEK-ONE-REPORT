@@ -1,5 +1,5 @@
 # WEEK-ONE-REPORT
-Officially Industrial practiacal training (IPT) started on 30TH July 2018. This is my weekly report of progress during IPT and this is for the first week ended  4th July 2018 .
+Officially Industrial practiacal training (IPT) started on 30TH July 2018. This is my weekly report of progress during IPT and this is for the first week ended  4th August 2018 .
 
 Most of the time for this week I was spending  on reading books such as Hands-On Machine Learning with Scikit-Learn and TensorFlow chapter 1 to 4 ” and  "Introduction to Machine Learning with Python chapter 1,2 and 4"  also  online courses on Foundation of Machine Learning by sambaiga ML by Andrew Ng week 1, 2 and 3 and Data-driven Decision Making and  Other source  you tube tutorial about machine learning and lecture from different web sites in order to get the clear picture what  machine learning is all about.
 
